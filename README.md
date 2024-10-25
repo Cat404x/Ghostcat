@@ -1,8 +1,22 @@
+
 # Ghostcat
 
-cybersecurity tool 
-nano ghost_cat.py
+Ghostcat is a basic 
+cybersecurity tool designed for network 
+scanning and connection monitoring. 
+It uses ARP requests to discover devices on 
+the network and sets up a simple server 
+to detect incoming connection attempts.
 
+## Features
+- **Network Scanning**: Uses ARP requests to discover devices on a specified IP range.
+- **Connection Monitoring**: Monitors a specified port for incoming connection attempts.
+- **Logging**: Records activities and findings to a log file.
+
+## Installation
+To run this script, you'll need to install the Scapy library. You can install it using pip:
+```sh
+pip install scapy
 
 
 1. **Clone the repository**:
