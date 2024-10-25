@@ -3,9 +3,7 @@
 cybersecurity tool 
 nano ghost_cat.py
 
-I was unable to fetch the workflow logs and the file content. Please ensure that the workflow file and the script file exist in the repository.
 
-Here are the steps you can follow to manually fix and upload your script:
 
 1. **Clone the repository**:
    ```sh
