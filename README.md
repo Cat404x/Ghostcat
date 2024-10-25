@@ -41,9 +41,6 @@ pip install scapy
 5. **Push the changes**:
    ```sh
    git push origin main
-   ```
-Certainly! I'd be happy to provide you with the commands to run the "Ghost Cat" cybersecurity tool script. Here's a step-by-step guide:
-
 1. First, ensure you have Python installed on your system. The script is written in Python and requires Python 3.x.
 
 2. Install the required library (Scapy) if you haven't already:
